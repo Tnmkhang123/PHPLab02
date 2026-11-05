@@ -81,3 +81,4 @@ $results = array_filter($workshops, static function (array $w) use ($query, $cat
 </main>
 </body>
 </html>
+
