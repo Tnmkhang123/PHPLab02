@@ -28,3 +28,4 @@ setcookie('theme', $choice, [
 ]);
 
 redirect_to('index.php');
+
