@@ -33,3 +33,4 @@ if (ini_get('session.use_cookies')) {
 
 session_destroy();
 redirect_to('index.php');
+
