@@ -19,3 +19,5 @@ if (empty($_SESSION['csrf_token'])) {
 $theme = in_array($_COOKIE['theme'] ?? '', ['light', 'dark'], true)
     ? $_COOKIE['theme']
     : 'light';
+
+    

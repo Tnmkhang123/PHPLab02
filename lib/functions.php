@@ -117,3 +117,4 @@ function find_workshop(string $idOrTitle, array $workshops): ?array {
     }
     return null;
 }
+
